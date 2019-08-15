@@ -1,0 +1,22 @@
+{
+  "name": "cthypebots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stromgren13/CTHypebots.git"
+  },
+  "author": "Talon Stromgren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stromgren13/CTHypebots/issues"
+  },
+  "homepage": "https://github.com/stromgren13/CTHypebots#readme",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
